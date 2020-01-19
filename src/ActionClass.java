@@ -20,6 +20,8 @@ public class ActionClass {
 		a.doubleClick(e).perform();
 		a.contextClick(e).perform();
 		
+		System.out.println("hai");
+		System.out.println("java class");
 		
 		
 	}
